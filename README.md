@@ -9,10 +9,6 @@ PathWise is a career path finder mobile app that helps students and jobseekers d
 ##  Figma Design
 [👉 View the live design here](https://www.figma.com/design/9NzcnBYZqaoCXztvOEUvem/PathWise?node-id=0-1&t=x0JXrNJ9mleaLxuZ-1)
 
-<a href="https://www.figma.com/design/9NzcnBYZqaoCXztvOEUvem/PathWise?node-id=0-1&t=x0JXrNJ9mleaLxuZ-1">
-  <img src="preview.png" width="600" alt="PathWise – Figma preview"/>
-</a>
-
 ---
 
 ##  Features
